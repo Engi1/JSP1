@@ -13,9 +13,10 @@
 	<form action="lginPro.jsp" method="post">
 		아이디:<input type = "text" name="id"><br/>
 		비밀번호:<input type = "text" name="id"><br/>
-		<input type ='submit' value='로그인'><br/>
-		<input type="button" value="회원가입" onclick="location.href='NewFile.jsp';">
+		<input type ='submit' value='로그인'>
+		<input type="button" value="회원가입" onclick="location.href='log1Form.jsp';">
 	</form>
-	</fieldset>
+	
+</fieldset>
 </body>
 </html>
